@@ -1,3 +1,3 @@
-# `rodash-linux-x64-musl`
+# `@foestauf/rodash-linux-x64-musl`
 
-This is the **x86_64-unknown-linux-musl** binary for `rodash`
+This is the **x86_64-unknown-linux-musl** binary for `@foestauf/rodash`

@@ -1,5 +1,5 @@
 {
-  "name": "rodash-android-arm64",
+  "name": "@foestauf/rodash-android-arm64",
   "version": "0.0.0",
   "os": [
     "android"

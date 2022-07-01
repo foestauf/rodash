@@ -1,3 +1,3 @@
-# `rodash-android-arm-eabi`
+# `@foestauf/rodash-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `rodash`
+This is the **armv7-linux-androideabi** binary for `@foestauf/rodash`

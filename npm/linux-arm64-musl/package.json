@@ -1,5 +1,5 @@
 {
-  "name": "rodash-linux-arm64-musl",
+  "name": "@foestauf/rodash-linux-arm64-musl",
   "version": "0.0.0",
   "os": [
     "linux"

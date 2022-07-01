@@ -1,3 +1,3 @@
-# `rodash-linux-arm64-musl`
+# `@foestauf/rodash-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `rodash`
+This is the **aarch64-unknown-linux-musl** binary for `@foestauf/rodash`

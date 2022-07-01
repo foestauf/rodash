@@ -1,3 +1,3 @@
-# `rodash-darwin-x64`
+# `@foestauf/rodash-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `rodash`
+This is the **x86_64-apple-darwin** binary for `@foestauf/rodash`

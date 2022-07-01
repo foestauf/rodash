@@ -1,5 +1,5 @@
 {
-  "name": "rodash-linux-arm-gnueabihf",
+  "name": "@foestauf/rodash-linux-arm-gnueabihf",
   "version": "0.0.0",
   "os": [
     "linux"

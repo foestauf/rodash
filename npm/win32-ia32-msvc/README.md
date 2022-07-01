@@ -1,3 +1,3 @@
-# `rodash-win32-ia32-msvc`
+# `@foestauf/rodash-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `rodash`
+This is the **i686-pc-windows-msvc** binary for `@foestauf/rodash`
